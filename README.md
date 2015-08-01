@@ -9,3 +9,5 @@ It's so simple to start the development version. First install node.js and npm, 
 	npm start
 	
 And to build the application, just run `npm build`.
+
+PS: Whoops! Those commits by KodekPL are actually me just entering the wrong email and username setup with Git. Ignore them!
