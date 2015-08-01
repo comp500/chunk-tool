@@ -1,0 +1,21 @@
+{
+  "name": "chunk-tool",
+  "version": "0.0.1",
+  "description": "A tool using NW.js to interface with ComputerCraft computers with the Chunk client",
+  "scripts": {
+    "start": "nw ./tool/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comp500/chunk-tool.git"
+  },
+  "author": "comp500",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comp500/chunk-tool/issues"
+  },
+  "homepage": "https://github.com/comp500/chunk-tool",
+  "dependencies": {
+    "nw": "^0.12.3"
+  }
+}
