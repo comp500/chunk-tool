@@ -1,4 +1,8 @@
 {
   "name": "chunk-tool",
-  "main": "index.html"
+  "main": "index.html",
+  "window": {
+    "title": "Chunk Configuration Tool",
+    "toolbar": false
+  }
 }
